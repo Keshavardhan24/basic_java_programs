@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../java_enbott"
+		},
+		{
+			"path": "../Java_DataStructers"
+		},
+		{
+			"path": "../Java_durga"
+		},
+		{
+			"path": "../Python_vscode"
+		},
+		{
+			"path": "../java_script"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
